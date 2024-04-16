@@ -35,7 +35,7 @@ Meine Projekte:</summary>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abothke&repo=pokemon-react-api)](https://github.com/abothke/pokemon-react-api)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abothke&repo=weather-app-react)](https://github.com/abothke/weather-app-react)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=projekt_movieDB_react)](https://github.com/abothke/projekt_movieDB_react)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abothke&repo=projekt_movieDB_react)](https://github.com/abothke/projekt_movieDB_react)
 
 <br />
 
