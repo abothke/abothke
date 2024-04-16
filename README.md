@@ -17,7 +17,6 @@
 
 Ich bin ein leidenschaftlicher Fullstack-Entwickler mit einem breiten Spektrum an technischen Fähigkeiten und einer tiefen Leidenschaft für die Entwicklung nahtloser Softwarelösungen. Mein Werkzeugkasten ist gefüllt mit modernen Technologien wie React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS, Bootstrap und Python, ergänzt durch fundierte Kenntnisse in SQL und Liquid für das Datenbank- und dynamische Inhaltsmanagement.
 
-![Skills](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,express,mongodb,nextjs,nodejs,tailwind,vite,sass,figma,py,regex,docker,github,grafana,mysql,wordpress,stackoverflow,aws,vscode,windows&perline=12)
 
 </h4>
