@@ -17,7 +17,7 @@
 
 Ich bin ein leidenschaftlicher Fullstack-Entwickler mit einem breiten Spektrum an technischen Fähigkeiten und einer tiefen Leidenschaft für die Entwicklung nahtloser Softwarelösungen. Mein Werkzeugkasten ist gefüllt mit modernen Technologien wie React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS, Bootstrap und Python, ergänzt durch fundierte Kenntnisse in SQL und Liquid für das Datenbank- und dynamische Inhaltsmanagement. Meine Begeisterung für Technologie ist eng mit meiner Rolle als hingebungsvoller Ehemann und Vater von drei Kindern verknüpft, was mich antreibt, bedeutungsvolle Lösungen zu schaffen
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,express,mongodb,nextjs,nodejs,tailwind,vite,sass,figma,py,regex,docker,github,grafana,mysql,wordpress,stackoverflow,aws,vscode,windows&perline=6)]
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,express,mongodb,nextjs,nodejs,tailwind,vite,sass,figma,py,regex,docker,github,grafana,mysql,wordpress,stackoverflow,aws,vscode,windows&perline=12)]
 
 </h4>
 </div>
