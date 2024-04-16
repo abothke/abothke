@@ -1,4 +1,4 @@
-### Hey,👋 ich bin [Andre Bothke](https://abothke.github.io)
+### Hey,👋 ich bin Andre Bothke
 
 <div>
  <p>
